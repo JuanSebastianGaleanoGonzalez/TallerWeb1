@@ -1,0 +1,24 @@
+.DivMenu{
+}
+
+.BarraMenu {
+    list-style-type: none;
+    padding: 20px;
+    overflow: hidden;
+    background-color: gray;
+    position: sticky;
+}
+.Menu{
+    display: inline;
+    padding: 20px;
+    background-color:cornflowerblue;
+}
+
+.LinkMenu{
+    text-decoration: none;
+    color: black;
+}
+
+.Menu:hover{
+    background-color: aqua;
+}
